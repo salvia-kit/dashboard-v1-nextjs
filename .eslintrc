@@ -7,8 +7,8 @@
         "singleQuote": true
       }
     ],
-    "react/react-in-jsx-scope": "off",
-    "react/no-unescaped-entities": "off",
+    "react/react-in-jsx-scope": 0,
+    "react/no-unescaped-entities": 0,
     "react/prop-types": [0, { "ignore": ["children"] }],
     "@next/next/no-img-element": 0
   }
