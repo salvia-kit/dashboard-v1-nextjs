@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: () => ({
-        mac: "url('https://res.cloudinary.com/beloved/image/upload/v1623547432/Assets/mac_mgnyjm.webp')",
+        mac: "url('/images/mac.webp')",
       }),
       width: {
         99: 'calc(100% - 16rem);' /* get the width of the main content from lg:viewport by dividing

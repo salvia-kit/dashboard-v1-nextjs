@@ -81,7 +81,7 @@ export default function TopNavigation() {
             <a href="#" className="block pl-5 relative">
               <img
                 alt="Enoch Ndika"
-                src="https://pbs.twimg.com/profile_images/1319296543602585607/ZYcrXiRu_400x400.jpg"
+                src="/images/1.jpg"
                 className="h-10 mx-auto object-cover rounded-full w-10"
               />
             </a>
